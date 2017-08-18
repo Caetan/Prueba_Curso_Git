@@ -6,6 +6,7 @@
 -	Requisitos
 -	Versión
 -	Encargados del proyecto
+-	Cambio para probar rama v1
 
 [Uso]
 
