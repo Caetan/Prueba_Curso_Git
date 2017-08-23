@@ -1,17 +1,18 @@
-[Título]
+[TÃ­tulo]
 
-[Descripción del proyecto]
+[DescripciÃ³n del proyecto]
 
-[Instalación]
+[InstalaciÃ³n]
 -	Requisitos
--	Versión
+-	VersiÃ³n
 -	Encargados del proyecto
 -	Cambio para probar rama v1
--	Cambios de otro miembro de la organizaci�n
+-	Cambios de otro miembro de la organización
+-	Cambios desde github v2
 
 [Uso]
 
-[Documentación]
+[DocumentaciÃ³n]
 
 [Roadmap]
 
