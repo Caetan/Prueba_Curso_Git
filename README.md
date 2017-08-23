@@ -7,6 +7,7 @@
 -	VersiÃ³n
 -	Encargados del proyecto
 -	Cambio para probar rama v1
+-	Cambios de otro miembro de la organización
 
 [Uso]
 
